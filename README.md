@@ -11,7 +11,7 @@
   <img alt="Top Langs" width="23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jet1202&show_icons=true&theme=dark" />
 </p>
 
-<p>やっぱりうどんの具は<span style="font-size=200%;">肉ぶっかけ</span>が一番ですよね！！</p>
+やっぱりうどんは**肉ぶっかけ**が一番ですよね！！  
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=jet1202)](https://github.com/jet1202)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=kyanack1202)](https://twitter.com/kyanack1202)
